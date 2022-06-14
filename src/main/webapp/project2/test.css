@@ -1,0 +1,16 @@
+@charset "UTF-8";
+
+.multi_select_box{
+    width: 400px;
+    margin: 80px auto;
+}
+
+.multi_select_box select{
+    width:100%;
+}
+
+.multi_select_box button{
+   background-color: darkblue !important;
+   color: #FFFFFF !important;
+   
+}

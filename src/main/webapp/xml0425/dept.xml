@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- 부서 : 부서명 위치 부서번호 -->
+<depts>
+<dept>
+	<deptno>10</deptno>
+	<dname>개발부</dname>
+	<loc>서울</loc>
+</dept>
+<dept>
+	<deptno>20</deptno>
+	<dname>영업</dname>
+	<loc>대전</loc>
+</dept>
+<dept>
+	<deptno>30</deptno>
+	<dname>총무</dname>
+	<loc>서울</loc>
+</dept>
+<dept>
+	<deptno>40</deptno>
+	<dname>해외영업</dname>
+	<loc/>
+</dept>
+</depts>
+<!--  JSON
+[{deptno:10,dname:개발,loc:서울},
+ {deptno:20,dname:영업,loc:대전},
+ {deptno:30,dname:총무,loc:서울}]
+ -->
+
+
